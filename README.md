@@ -10,6 +10,6 @@
 
 Sàn IQ Option là một sàn giao dịch uy tín. Với cam kết an toàn, minh bạch trong mọi giao dịch. Sự tham gia của người chơi đến từ những quốc gia lớn trên thế giới. Đây là sàn giao dịch uy tín nhất hiện tại.
 
-_Unofficial website of the IQ Option
+__Unofficial website of the IQ Option
 
 <!-- AUTO-GENERATED-CONTENT:END -->
